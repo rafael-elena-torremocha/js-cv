@@ -1,0 +1,3 @@
+var studies = [ ];
+
+export { studies };
